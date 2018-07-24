@@ -2,7 +2,7 @@
 
 ## CutieKeys
 
-姓名：林信然
+
 学校：山东大学
 项目：CutieKeys - VR钢琴
 
